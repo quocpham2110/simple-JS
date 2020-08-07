@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Lobster/Lobster-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'OpenSans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Open_Sans/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Roboto Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Roboto/Roboto-Thin.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Roboto/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Roboto Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Roboto/Roboto-Light.ttf") format("truetype");
+}
+/* @font-face {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: normal;
+    src: url("TimesNewRoman/times-new-roman.ttf") format("truetype");
+} */
+@font-face {
+    font-family: 'UTM Aquarelle';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Aquarelle/UTMAquarelle.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'UTM Caviar';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Caviar/UTMCaviar.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'SVN-Blenda Script';
+    font-style: normal;
+    font-weight: normal;
+    src: url("Blenda/Blenda-Script.ttf") format("truetype");
+}
+@font-face {
+	font-family: 'UVF Aphrodite Pro';
+	font-style: normal;
+	font-weight: normal;
+	src: url("uvf-aphrodite/UVF Aphrodite Pro.woff") format('woff');
+}

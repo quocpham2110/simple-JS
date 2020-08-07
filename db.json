@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Abadia Retuerta",
+      "price": 33,
+      "image": "assets/images/DATA/1.jpg",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Que Guapo",
+      "price": 17,
+      "image": "assets/images/DATA/2.jpg",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Root:1",
+      "price": 18,
+      "image": "assets/images/DATA/3.jpg",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Admit One",
+      "price": 35,
+      "image": "assets/images/DATA/4.jpg",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Fairview",
+      "price": 20,
+      "image": "assets/images/DATA/5.jpg",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Barolo",
+      "price": 45,
+      "image": "assets/images/DATA/6.jpg",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Ancient Earth",
+      "price": 11,
+      "image": "assets/images/DATA/7.jpg",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Alpatago",
+      "price": 17,
+      "image": "assets/images/DATA/8.jpg",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Primario",
+      "price": 23,
+      "image": "assets/images/DATA/9.jpg",
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "La Capra",
+      "price": 29,
+      "image": "assets/images/DATA/10.jpg",
+      "status": true
+    },
+    {
+      "id": 11,
+      "name": "Salty Hills",
+      "price": 59,
+      "image": "assets/images/DATA/11.jpg",
+      "status": true
+    },
+    {
+      "id": 12,
+      "name": "47/74",
+      "price": 29,
+      "image": "assets/images/DATA/12.jpg",
+      "status": true
+    },
+    {
+      "id": 13,
+      "name": "Raimonda",
+      "price": 37,
+      "image": "assets/images/DATA/13.jpg",
+      "status": true
+    },
+    {
+      "id": 14,
+      "name": "Camperchi",
+      "price": 52,
+      "image": "assets/images/DATA/14.jpg",
+      "status": true
+    },
+    {
+      "id": 15,
+      "name": "El Circo",
+      "price": 21,
+      "image": "assets/images/DATA/15.jpg",
+      "status": true
+    }
+  ],
+  "users": [
+    {
+      "fname": "Giang",
+      "lname": "Lê Anh",
+      "cty": "Cổ phần công nghệ DKT",
+      "address": "Tòa nhà Hanoi Group, 442 Đội Cấn, Ba Đình, Hà Nội",
+      "city": "Hà Nội",
+      "nationality": "Việt Nam",
+      "zip": "2300089",
+      "phone": "0974554928",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+<div class="breadcrumb">
+  <div class="container breadcrumb__inner"><a href="index.html">Trang chủ</a><span>/</span><a href="#"></a>
+    <p>Địa chỉ</p>
+  </div>
+</div>
+<section class="address">
+  <div class="container">
+    <div class="section__arrow--title">
+      <h1 class="section__arrow--header">ĐỊA CHỈ</h1><img class="section__arrow--icon" src="assets/images/decor/2.png"
+        alt="icon">
+    </div>
+    <div class="address__head">
+      <p>ĐỊA CHỈ CỦA BẠN</p>
+    </div>
+    <div class="address__wrapper">
+      <div class="address__added">
+        <div class="address__added--inner">
+          <form class="address__form" id="address__form2" action="#" method="get">
+            <label for="fname"><span>Tên</span>
+              <input type="text" name="fname" value="Giang">
+            </label>
+            <label for="lname"><span>Họ & tên đệm</span>
+              <input type="text" name="lname" value="Lê Anh">
+            </label>
+            <label for="cty"><span>Công ty</span>
+              <input type="text" name="cty" value="Cổ phần công nghệ DKT">
+            </label>
+            <label for="add"><span>Địa chỉ</span>
+              <input type="text" name="address" value="Tòa nhà Hanoi Group, 442 Đội Cấn, Ba Đình, Hà Nội">
+            </label>
+            <label for="city"><span>Thành phố</span>
+              <input type="text" name="city" value="Hà Nội">
+            </label>
+            <label for="qt"><span>Quốc tịch</span>
+              <input type="text" name="qt" value="Việt Nam">
+            </label>
+            <label for="zip"><span>Postal/Zip Code</span>
+              <input type="text" name="zip" value="2300089">
+            </label>
+            <label for="phone"><span>Phone</span>
+              <input type="tel" name="phone" value="0974554928">
+            </label>
+          </form>
+          <div class="address__added--modified"><a>Chỉnh sửa địa chỉ</a></div>
+          <div class="address__btn hide">
+            <label for="check">
+              <input type="checkbox" name="check" form="address__form1" checked><span>Đặt làm địa chỉ mặc định?</span>
+            </label>
+            <div>
+              <button class="btn address__btn--submit" type="submit" form="address__form1">Chỉnh sửa địa chỉ</button>
+              <button class="btn address__btn--del" type="submit" form="address__form1">Xóa</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="address__confirm">
+    <a class="btn" href="index.html">XÁC NHẬN ĐẶT HÀNG</a>
+  </div>
+
+</section>

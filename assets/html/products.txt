@@ -1,0 +1,210 @@
+<div class="breadcrumb">
+  <div class="container breadcrumb__inner"><a href="index.html">Trang chủ</a><span>/</span><a href="#">Sản
+      phẩm</a><span>/</span>
+    <p>Rượu vang đỏ</p>
+  </div>
+</div>
+<div class="container"><img class="products__banner" src="assets/images/products/banner.jpg" alt="">
+  <input class="products-btn" id="products-btn" type="checkbox">
+  <label class="products-label" for="products-btn"><i class="fas fa-bars"></i></label>
+  <div class="products__inner">
+    <div class="products__list">
+      <div class="products__list-items">
+        <div class="section__arrow--title">
+          <h1 class="section__arrow--header">DANH MỤC SẢN PHẨM</h1><img class="section__arrow--icon"
+            src="assets/images/decor/2.png" alt="icon">
+        </div>
+        <div class="products__list--all">
+          <div class="products__list--all-wrapper">
+            <h5>RƯỢU NGOẠI</h5>
+            <ul class="products__list--ul">
+              <li><a href="#">Rượu Chivas<span>(26)</span></a></li>
+              <li><a href="#">Hàng độc - Rượu độc đáo<span>(36)</span></a></li>
+              <li><a href="#">Johnnie Walker<span>(46)</span></a></li>
+              <li><a href="#">Rượu Whisky<span>(24)</span></a></li>
+              <li><a href="#">Rượu Remy Martin<span>(16)</span></a></li>
+              <li><a href="#">Rượu Glenmorangie<span>(11)</span></a></li>
+              <li><a href="#">Rượu Ballantine's<span>(7)</span></a></li>
+              <li><a href="#">Rượu Cognac<span>(40)</span></a></li>
+              <li><a href="#">Rượu Vodka<span>(93)</span></a></li>
+              <li><a href="#">Rượu Macallan<span>(19)</span></a></li>
+              <li><a href="#">Rượu Brandy<span>(62)</span></a></li>
+              <li><a href="#">Rượu Hennessy<span>(20)</span></a></li>
+              <li><a href="#">Rượu Gin - Tequila - Liqueur - Rượu mùi<span>(36)</span></a></li>
+              <li><a href="#">Rượu Champagne<span>(12)</span></a></li>
+              <li><a href="#">Rượu Single malt Scotch whisky<span>(47)</span></a></li>
+              <li><a href="#">Rượu Spirits<span>(4)</span></a></li>
+            </ul>
+          </div>
+          <div class="products__list--all-wrapper">
+            <h5>RƯỢU VANG</h5>
+            <ul class="products__list--ul">
+              <li><a href="#">Rượu Vang Pháp<span>(44)</span></a></li>
+              <li><a href="#">Rượu Vang Úc<span>(34)</span></a></li>
+              <li><a href="#">Rượu Vang Mỹ<span>(16)</span></a></li>
+              <li><a href="#">Rượu Vang Chile<span>(48)</span></a></li>
+              <li><a href="#">Rượu Vang Philip<span>(1)</span></a></li>
+              <li><a href="#">Rượu Vang Nam Phi<span>(20)</span></a></li>
+              <li><a href="#">Rượu Vang Ý<span>(2)</span></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="products__list-items">
+        <div class="section__arrow--title">
+          <h1 class="section__arrow--header">SO SÁNH SẢN PHẨM</h1><img class="section__arrow--icon"
+            src="assets/images/decor/2.png" alt="icon">
+        </div>
+        <div class="products__list--compare">
+          <p>Bạn chưa có sản phẩm nào để so sánh</p>
+        </div>
+      </div>
+      <div class="products__list-items">
+        <div class="section__arrow--title">
+          <h1 class="section__arrow--header">TAG SẢN PHẨM</h1><img class="section__arrow--icon"
+            src="assets/images/decor/2.png" alt="icon">
+        </div>
+        <div class="products__list--tag"><a href="#">Đồng hồ</a><a href="#">Túi</a><a href="#">Phụ kiện</a><a
+            href="#">Giày</a><a href="#">Sandal</a><a href="#">Áo sơ mi</a><a href="#">Nước hoa</a><a href="#">Trẻ
+            em</a><a href="#">Thời trang nữ</a></div>
+      </div><img class="products__list--img" src="assets/images/products/ads.jpg" alt="">
+    </div>
+    <div class="products__grid">
+      <div class="products__grid--top">
+        <div class="products__grid--show"><a href="#"><i class="fas fa-th"></i></a><a href="products-row.html"> <i
+              class="fas fa-list"></i></a></div>
+        <div class="products__grid--page"><a href="#"> <i class="fas fa-caret-left"></i></a><a href="#">1</a><a
+            href="#">2</a><a href="#">3</a><a href="#">4</a><a href="#">5</a><a href="#"><i
+              class="fas fa-caret-right"></i></a></div>
+      </div>
+      <div class="products__grid--bot">
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/1.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/2.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/3.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/4.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/5.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/6.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/7.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/8.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+        <aside class="home-new__items">
+          <div class="home-new__top">
+            <p class="home-new__tag--none"></p><img class="home-new__img" src="assets/images/products/9.png" alt="wine">
+            <div class="home-new__label"><a href="#"><i class="fas fa-heart"></i><span>Yêu thích</span></a><a
+                href="#"><i class="fas fa-signal"></i><span>So sánh</span></a><a href="#"> <i
+                  class="fas fa-compress-alt"></i></a></div>
+          </div>
+          <div class="home-new__bot"><a class="home-new__wine" href="#">
+              <h4>RƯỢU VANG ĐÀ LẠT</h4>
+            </a>
+            <p class="home-new__price price">370.000<span>đ</span></p>
+            <div class="home-new__btn"><a class="btn">ADD TO CART</a></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+</div>
